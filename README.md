@@ -1,6 +1,6 @@
 # Freelance Web Development: Washy Washy World Laundromat
 
-![Washy Washy World Website]
+![Washy Washy World Website](https://sai-alekhya-ravi.github.io/Freelance_Web_Development/)
 ## 📋 Project Overview
 
 A comprehensive freelance web development project for **Washy Washy World Laundromat**, delivering a modern, responsive business website that significantly enhanced their online presence and customer engagement across multiple locations.
