@@ -119,7 +119,7 @@ A comprehensive freelance web development project for **Washy Washy World Laundr
 
 ## 📞 Client Testimonial
 
-> "Sai delivered an exceptional website that perfectly captured our brand identity while significantly improving our online presence. The bilingual support has been particularly valuable for engaging with our diverse customer base. The project was completed on time and exceeded our expectations in terms of quality and functionality."
+> "Alekhya delivered an exceptional website that perfectly captured our brand identity while significantly improving our online presence. The bilingual support has been particularly valuable for engaging with our diverse customer base. The project was completed on time and exceeded our expectations in terms of quality and functionality."
 >
 > — *Washy Washy World Management*
 
