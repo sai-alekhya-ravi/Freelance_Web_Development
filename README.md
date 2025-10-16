@@ -142,7 +142,7 @@ Source code is provided for portfolio demonstration purposes only.
 
 <div align="center">
 
-**Built with by Sai Alekhya Ravi**  
+**Built by Sai Alekhya Ravi**  
 *Last Updated: October 2025*
 
 </div>
